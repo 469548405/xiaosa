@@ -2223,7 +2223,13 @@
         }
     ],
     "lives": [
-         {
+          {
+            "name": "洪宇lpv4[2]",
+            "type": 0,
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/lib/iptv.m3u",
+            "timeout": 10
+        }, 
+        {
             "name": "洪宇lpv4",
             "type": 0,
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ethan-Men/8159-TV/refs/heads/master/output/ipv4/result.m3u",
