@@ -7,7 +7,7 @@
 {"name":"🐍洪宇影视线路【P2】","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/hy.json"},
 {"name":"🐍洪宇影视线路【P3】","url":"https://gh-proxy.com/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/jsm.json"},
 {"name":"🐍洪宇影视线路【p4】","url":"https://gh-proxy.com/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/fun.json"},
-{"name":"🐍洪宇影视线路【18】","url":"https://gh-proxy.com/https://raw.githubusercontent.com/469548405/tvbox18/refs/heads/main/hy.json"}
+{"name":"🐍洪宇影视线路【18】","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/bobyang3/tvbox/3384622c3ba0e119d4517595b361d4179d924743/9918.json"}
 
 
 ]
