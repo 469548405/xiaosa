@@ -1,3 +1,335 @@
+
+
+#EXTM3U
+#EXTINF:-1,tvg-id="虎牙放映厅(网页)" tvg-name="虎牙放映厅(网页)" tvg-logo="https://epg.112114.xyz/logo/虎牙放映厅(网页).png" group-title="洪宇提取网页",虎牙放映厅(网页)
+video://https://www.huya.com/11602077
+#EXTINF:-1,tvg-id="刘德华(网页)" tvg-name="刘德华(网页)" tvg-logo="https://epg.112114.xyz/logo/刘德华(网页).png" group-title="洪宇提取网页",刘德华(网页)
+video://https://www.huya.com/11342424
+#EXTINF:-1,tvg-id="许冠英(网页)" tvg-name="许冠英(网页)" tvg-logo="https://epg.112114.xyz/logo/许冠英(网页).png" group-title="洪宇提取网页",许冠英(网页)
+video://https://www.huya.com/11601972
+#EXTINF:-1,tvg-id="李连杰(网页)" tvg-name="李连杰(网页)" tvg-logo="https://epg.112114.xyz/logo/李连杰(网页).png" group-title="洪宇提取网页",李连杰(网页)
+video://https://www.huya.com/11342390
+#EXTINF:-1,tvg-id="甄子丹(网页)" tvg-name="甄子丹(网页)" tvg-logo="https://epg.112114.xyz/logo/甄子丹(网页).png" group-title="洪宇提取网页",甄子丹(网页)
+video://https://www.huya.com/11352935
+#EXTINF:-1,tvg-id="周润发(网页)" tvg-name="周润发(网页)" tvg-logo="https://epg.112114.xyz/logo/周润发(网页).png" group-title="洪宇提取网页",周润发(网页)
+video://https://www.huya.com/11342387
+#EXTINF:-1,tvg-id="周星星(网页)" tvg-name="周星星(网页)" tvg-logo="https://epg.112114.xyz/logo/周星星(网页).png" group-title="洪宇提取网页",周星星(网页)
+video://https://www.huya.com/11336587
+#EXTINF:-1,tvg-id="洪金宝(网页)" tvg-name="洪金宝(网页)" tvg-logo="https://epg.112114.xyz/logo/洪金宝(网页).png" group-title="洪宇提取网页",洪金宝(网页)
+video://https://www.huya.com/11279251
+#EXTINF:-1,tvg-id="梁家辉(网页)" tvg-name="梁家辉(网页)" tvg-logo="https://epg.112114.xyz/logo/梁家辉(网页).png" group-title="洪宇提取网页",梁家辉(网页)
+video://https://www.huya.com/11342429
+#EXTINF:-1,tvg-id="洪金宝(网页)" tvg-name="洪金宝(网页)" tvg-logo="https://epg.112114.xyz/logo/洪金宝(网页).png" group-title="洪宇提取网页",洪金宝(网页)
+video://https://www.huya.com/11279251
+#EXTINF:-1,tvg-id="五福星(网页)" tvg-name="五福星(网页)" tvg-logo="https://epg.112114.xyz/logo/五福星(网页).png" group-title="洪宇提取网页",五福星(网页)
+video://https://www.huya.com/11282233
+#EXTINF:-1,tvg-id="古天乐(网页)" tvg-name="古天乐(网页)" tvg-logo="https://epg.112114.xyz/logo/古天乐(网页).png" group-title="洪宇提取网页",古天乐(网页)
+video://https://www.huya.com/11602041
+#EXTINF:-1,tvg-id="邱淑贞(网页)" tvg-name="邱淑贞(网页)" tvg-logo="https://epg.112114.xyz/logo/邱淑贞(网页).png" group-title="洪宇提取网页",邱淑贞(网页)
+video://https://www.huya.com/11352949
+#EXTINF:-1,tvg-id="周海媚(网页)" tvg-name="周海媚(网页)" tvg-logo="https://epg.112114.xyz/logo/周海媚(网页).png" group-title="洪宇提取网页",周海媚(网页)
+video://https://www.huya.com/11279247
+#EXTINF:-1,tvg-id="星爷(网页)" tvg-name="星爷(网页)" tvg-logo="https://epg.112114.xyz/logo/星爷(网页).png" group-title="洪宇提取网页",星爷(网页)
+video://https://www.huya.com/11342412
+#EXTINF:-1,tvg-id="英叔(网页)" tvg-name="英叔(网页)" tvg-logo="https://epg.112114.xyz/logo/英叔(网页).png" group-title="洪宇提取网页",英叔(网页)
+video://https://www.huya.com/11342421
+#EXTINF:-1,tvg-id="成龙(网页)" tvg-name="成龙(网页)" tvg-logo="https://epg.112114.xyz/logo/成龙(网页).png" group-title="洪宇提取网页",成龙(网页)
+video://https://www.huya.com/11342386
+#EXTINF:-1,tvg-id="王晶(网页)" tvg-name="王晶(网页)" tvg-logo="https://epg.112114.xyz/logo/王晶(网页).png" group-title="洪宇提取网页",王晶(网页)
+video://https://www.huya.com/11602058
+#EXTINF:-1,tvg-id="沈腾(网页)" tvg-name="沈腾(网页)" tvg-logo="https://epg.112114.xyz/logo/沈腾(网页).png" group-title="洪宇提取网页",沈腾(网页)
+video://https://www.huya.com/11601968
+#EXTINF:-1,tvg-id="黄渤(网页)" tvg-name="黄渤(网页)" tvg-logo="https://epg.112114.xyz/logo/黄渤(网页).png" group-title="洪宇提取网页",黄渤(网页)
+video://https://www.huya.com/11352876
+#EXTINF:-1,tvg-id="吴京(网页)" tvg-name="吴京(网页)" tvg-logo="https://epg.112114.xyz/logo/吴京(网页).png" group-title="洪宇提取网页",吴京(网页)
+video://https://www.huya.com/11602041
+#EXTINF:-1,tvg-id="强森(网页)" tvg-name="强森(网页)" tvg-logo="https://epg.112114.xyz/logo/强森(网页).png" group-title="洪宇提取网页",强森(网页)
+video://https://www.huya.com/21059581
+#EXTINF:-1,tvg-id="玄幻(网页)" tvg-name="玄幻(网页)" tvg-logo="https://epg.112114.xyz/logo/玄幻(网页).png" group-title="洪宇提取网页",玄幻(网页)
+video://https://www.huya.com/11342414
+#EXTINF:-1,tvg-id="喜剧(网页)" tvg-name="喜剧(网页)" tvg-logo="https://epg.112114.xyz/logo/喜剧(网页).png" group-title="洪宇提取网页",喜剧(网页)
+video://https://www.huya.com/11352877
+#EXTINF:-1,tvg-id="港片(网页)" tvg-name="港片(网页)" tvg-logo="https://epg.112114.xyz/logo/港片(网页).png" group-title="洪宇提取网页",港片(网页)
+video://https://www.huya.com/11602043
+#EXTINF:-1,tvg-id="国产(网页)" tvg-name="国产(网页)" tvg-logo="https://epg.112114.xyz/logo/国产(网页).png" group-title="洪宇提取网页",国产(网页)
+video://https://www.huya.com/11352973
+#EXTINF:-1,tvg-id="漫威(网页)" tvg-name="漫威(网页)" tvg-logo="https://epg.112114.xyz/logo/漫威(网页).png" group-title="洪宇提取网页",漫威(网页)
+video://https://www.huya.com/11602034
+#EXTINF:-1,tvg-id="宇宙(网页)" tvg-name="宇宙(网页)" tvg-logo="https://epg.112114.xyz/logo/宇宙(网页).png" group-title="洪宇提取网页",宇宙(网页)
+video://https://www.huya.com/11342428
+#EXTINF:-1,tvg-id="怪兽(网页)" tvg-name="怪兽(网页)" tvg-logo="https://epg.112114.xyz/logo/怪兽(网页).png" group-title="洪宇提取网页",怪兽(网页)
+video://https://www.huya.com/21059577
+#EXTINF:-1,tvg-id="武侠(网页)" tvg-name="武侠(网页)" tvg-logo="https://epg.112114.xyz/logo/武侠(网页).png" group-title="洪宇提取网页",武侠(网页)
+video://https://www.huya.com/11342427
+#EXTINF:-1,tvg-id="警匪(网页)" tvg-name="警匪(网页)" tvg-logo="https://epg.112114.xyz/logo/警匪(网页).png" group-title="洪宇提取网页",警匪(网页)
+video://https://www.huya.com/11352886
+#EXTINF:-1,tvg-id="罪犯(网页)" tvg-name="罪犯(网页)" tvg-logo="https://epg.112114.xyz/logo/罪犯(网页).png" group-title="洪宇提取网页",罪犯(网页)
+video://https://www.huya.com/11352962
+#EXTINF:-1,tvg-id="枪战(网页)" tvg-name="枪战(网页)" tvg-logo="https://epg.112114.xyz/logo/枪战(网页).png" group-title="洪宇提取网页",枪战(网页)
+video://https://www.huya.com/21059579
+#EXTINF:-1,tvg-id="盗墓(网页)" tvg-name="盗墓(网页)" tvg-logo="https://epg.112114.xyz/logo/盗墓(网页).png" group-title="洪宇提取网页",盗墓(网页)
+video://https://www.huya.com/21059552
+#EXTINF:-1,tvg-id="海盗(网页)" tvg-name="海盗(网页)" tvg-logo="https://epg.112114.xyz/logo/海盗(网页).png" group-title="洪宇提取网页",海盗(网页)
+video://https://www.huya.com/21059595
+#EXTINF:-1,tvg-id="推荐(网页)" tvg-name="推荐(网页)" tvg-logo="https://epg.112114.xyz/logo/推荐(网页).png" group-title="洪宇提取网页",推荐(网页)
+video://https://www.huya.com/11602041
+#EXTINF:-1,tvg-id="救援(网页)" tvg-name="救援(网页)" tvg-logo="https://epg.112114.xyz/logo/救援(网页).png" group-title="洪宇提取网页",救援(网页)
+video://https://www.huya.com/21059594
+#EXTINF:-1,tvg-id="热血(网页)" tvg-name="热血(网页)" tvg-logo="https://epg.112114.xyz/logo/热血(网页).png" group-title="洪宇提取网页",热血(网页)
+video://https://www.huya.com/11352934
+#EXTINF:-1,tvg-id="谍战(网页)" tvg-name="谍战(网页)" tvg-logo="https://epg.112114.xyz/logo/谍战(网页).png" group-title="洪宇提取网页",谍战(网页)
+video://https://www.huya.com/21059585
+#EXTINF:-1,tvg-id="战争(网页)" tvg-name="战争(网页)" tvg-logo="https://epg.112114.xyz/logo/战争(网页).png" group-title="洪宇提取网页",战争(网页)
+video://https://www.huya.com/21059592
+#EXTINF:-1,tvg-id="小鬼头(网页)" tvg-name="小鬼头(网页)" tvg-logo="https://epg.112114.xyz/logo/小鬼头(网页).png" group-title="洪宇提取网页",小鬼头(网页)
+video://https://www.huya.com/11352963
+#EXTINF:-1,tvg-id="陈翔六点半(网页)" tvg-name="陈翔六点半(网页)" tvg-logo="https://epg.112114.xyz/logo/陈翔六点半(网页).png" group-title="洪宇提取网页",陈翔六点半(网页)
+video://https://www.huya.com/11274154
+#EXTINF:-1,tvg-id="喜剧专场(网页)" tvg-name="喜剧专场(网页)" tvg-logo="https://epg.112114.xyz/logo/喜剧专场(网页).png" group-title="洪宇提取网页",喜剧专场(网页)
+video://https://www.huya.com/11602044
+#EXTINF:-1,tvg-id="高分动作(网页)" tvg-name="高分动作(网页)" tvg-logo="https://epg.112114.xyz/logo/高分动作(网页).png" group-title="洪宇提取网页",高分动作(网页)
+video://https://www.huya.com/11352884
+#EXTINF:-1,tvg-id="不挤影院(网页)" tvg-name="不挤影院(网页)" tvg-logo="https://epg.112114.xyz/logo/不挤影院(网页).png" group-title="洪宇提取网页",不挤影院(网页)
+video://https://www.huya.com/11352897
+#EXTINF:-1,tvg-id="黑帮斗争(网页)" tvg-name="黑帮斗争(网页)" tvg-logo="https://epg.112114.xyz/logo/黑帮斗争(网页).png" group-title="洪宇提取网页",黑帮斗争(网页)
+video://https://www.huya.com/11342419
+#EXTINF:-1,tvg-id="嫣然影厅(网页)" tvg-name="嫣然影厅(网页)" tvg-logo="https://epg.112114.xyz/logo/嫣然影厅(网页).png" group-title="洪宇提取网页",嫣然影厅(网页)
+video://https://www.huya.com/11601977
+#EXTINF:-1,tvg-id="女神系列(网页)" tvg-name="女神系列(网页)" tvg-logo="https://epg.112114.xyz/logo/女神系列(网页).png" group-title="洪宇提取网页",女神系列(网页)
+video://https://www.huya.com/11336571
+#EXTINF:-1,tvg-id="经典女神(网页)" tvg-name="经典女神(网页)" tvg-logo="https://epg.112114.xyz/logo/经典女神(网页).png" group-title="洪宇提取网页",经典女神(网页)
+video://https://www.huya.com/11352909
+#EXTINF:-1,tvg-id="许氏三杰(网页)" tvg-name="许氏三杰(网页)" tvg-logo="https://epg.112114.xyz/logo/许氏三杰(网页).png" group-title="洪宇提取网页",许氏三杰(网页)
+video://https://www.huya.com/11602033
+#EXTINF:-1,tvg-id="经典港片(网页)" tvg-name="经典港片(网页)" tvg-logo="https://epg.112114.xyz/logo/经典港片(网页).png" group-title="洪宇提取网页",经典港片(网页)
+video://https://www.huya.com/11352965
+#EXTINF:-1,tvg-id="镖行天下(网页)" tvg-name="镖行天下(网页)" tvg-logo="https://epg.112114.xyz/logo/镖行天下(网页).png" group-title="洪宇提取网页",镖行天下(网页)
+video://https://www.huya.com/11352969
+#EXTINF:-1,tvg-id="蘑菇影厅(网页)" tvg-name="蘑菇影厅(网页)" tvg-logo="https://epg.112114.xyz/logo/蘑菇影厅(网页).png" group-title="洪宇提取网页",蘑菇影厅(网页)
+video://https://www.huya.com/11601981
+#EXTINF:-1,tvg-id="搞笑恐怖(网页)" tvg-name="搞笑恐怖(网页)" tvg-logo="https://epg.112114.xyz/logo/搞笑恐怖(网页).png" group-title="洪宇提取网页",搞笑恐怖(网页)
+video://https://www.huya.com/11601960
+#EXTINF:-1,tvg-id="死神来了(网页)" tvg-name="死神来了(网页)" tvg-logo="https://epg.112114.xyz/logo/死神来了(网页).png" group-title="洪宇提取网页",死神来了(网页)
+video://https://www.huya.com/11352903
+#EXTINF:-1,tvg-id="超异能族(网页)" tvg-name="超异能族(网页)" tvg-logo="https://epg.112114.xyz/logo/超异能族(网页).png" group-title="洪宇提取网页",超异能族(网页)
+video://https://www.huya.com/21059586
+#EXTINF:-1,tvg-id="古墓系列(网页)" tvg-name="古墓系列(网页)" tvg-logo="https://epg.112114.xyz/logo/古墓系列(网页).png" group-title="洪宇提取网页",古墓系列(网页)
+video://https://www.huya.com/11352913
+#EXTINF:-1,tvg-id="动作电影(网页)" tvg-name="动作电影(网页)" tvg-logo="https://epg.112114.xyz/logo/动作电影(网页).png" group-title="洪宇提取网页",动作电影(网页)
+video://https://www.huya.com/11602077
+#EXTINF:-1,tvg-id="搞笑喜剧(网页)" tvg-name="搞笑喜剧(网页)" tvg-logo="https://epg.112114.xyz/logo/搞笑喜剧(网页).png" group-title="洪宇提取网页",搞笑喜剧(网页)
+video://https://www.huya.com/11342423
+#EXTINF:-1,tvg-id="欢笑影院(网页)" tvg-name="欢笑影院(网页)" tvg-logo="https://epg.112114.xyz/logo/欢笑影院(网页).png" group-title="洪宇提取网页",欢笑影院(网页)
+video://https://www.huya.com/11352894
+#EXTINF:-1,tvg-id="国产悬疑(网页)" tvg-name="国产悬疑(网页)" tvg-logo="https://epg.112114.xyz/logo/国产悬疑(网页).png" group-title="洪宇提取网页",国产悬疑(网页)
+video://https://www.huya.com/11342395
+#EXTINF:-1,tvg-id="快意江湖(网页)" tvg-name="快意江湖(网页)" tvg-logo="https://epg.112114.xyz/logo/快意江湖(网页).png" group-title="洪宇提取网页",快意江湖(网页)
+video://https://www.huya.com/11342435
+#EXTINF:-1,tvg-id="喜乐影院(网页)" tvg-name="喜乐影院(网页)" tvg-logo="https://epg.112114.xyz/logo/喜乐影院(网页).png" group-title="洪宇提取网页",喜乐影院(网页)
+video://https://www.huya.com/21059580
+#EXTINF:-1,tvg-id="怪兽系列(网页)" tvg-name="怪兽系列(网页)" tvg-logo="https://epg.112114.xyz/logo/怪兽系列(网页).png" group-title="洪宇提取网页",怪兽系列(网页)
+video://https://www.huya.com/21059554
+#EXTINF:-1,tvg-id="杰森·斯坦森(网页)" tvg-name="杰森·斯坦森(网页)" tvg-logo="https://epg.112114.xyz/logo/杰森·斯坦森(网页).png" group-title="洪宇提取网页",杰森·斯坦森(网页)
+video://https://www.huya.com/21059588
+#EXTINF:-1,tvg-id="1寻秦记(网页)" tvg-name="1寻秦记(网页)" tvg-logo="https://epg.112114.xyz/logo/1寻秦记(网页).png" group-title="洪宇提取网页",1寻秦记(网页)
+video://https://www.huya.com/29465848
+#EXTINF:-1,tvg-id="1寻秦记(网页)" tvg-name="1寻秦记(网页)" tvg-logo="https://epg.112114.xyz/logo/1寻秦记(网页).png" group-title="洪宇提取网页",1寻秦记(网页)
+video://https://www.huya.com/29633850
+#EXTINF:-1,tvg-id="2西游记2(网页)" tvg-name="2西游记2(网页)" tvg-logo="https://epg.112114.xyz/logo/2西游记2(网页).png" group-title="洪宇提取网页",2西游记2(网页)
+video://https://www.huya.com/29465859
+#EXTINF:-1,tvg-id="3扫黄先锋(网页)" tvg-name="3扫黄先锋(网页)" tvg-logo="https://epg.112114.xyz/logo/3扫黄先锋(网页).png" group-title="洪宇提取网页",3扫黄先锋(网页)
+video://https://www.huya.com/29465855
+#EXTINF:-1,tvg-id="4楚汉骄雄(网页)" tvg-name="4楚汉骄雄(网页)" tvg-logo="https://epg.112114.xyz/logo/4楚汉骄雄(网页).png" group-title="洪宇提取网页",4楚汉骄雄(网页)
+video://https://www.huya.com/29465854
+#EXTINF:-1,tvg-id="5陀枪师姐(网页)" tvg-name="5陀枪师姐(网页)" tvg-logo="https://epg.112114.xyz/logo/5陀枪师姐(网页).png" group-title="洪宇提取网页",5陀枪师姐(网页)
+video://https://www.huya.com/29465857
+#EXTINF:-1,tvg-id="6法证先锋4(网页)" tvg-name="6法证先锋4(网页)" tvg-logo="https://epg.112114.xyz/logo/6法证先锋4(网页).png" group-title="洪宇提取网页",6法证先锋4(网页)
+video://https://www.huya.com/29465861
+#EXTINF:-1,tvg-id="7刑事侦缉档案(网页)" tvg-name="7刑事侦缉档案(网页)" tvg-logo="https://epg.112114.xyz/logo/7刑事侦缉档案(网页).png" group-title="洪宇提取网页",7刑事侦缉档案(网页)
+video://https://www.huya.com/29465856
+#EXTINF:-1,tvg-id="8笑看风云(网页)" tvg-name="8笑看风云(网页)" tvg-logo="https://epg.112114.xyz/logo/8笑看风云(网页).png" group-title="洪宇提取网页",8笑看风云(网页)
+video://https://www.huya.com/29465858
+#EXTINF:-1,tvg-id="9大唐双龙传(网页)" tvg-name="9大唐双龙传(网页)" tvg-logo="https://epg.112114.xyz/logo/9大唐双龙传(网页).png" group-title="洪宇提取网页",9大唐双龙传(网页)
+video://https://www.huya.com/29465850
+#EXTINF:-1,tvg-id="10洗冤录(网页)" tvg-name="10洗冤录(网页)" tvg-logo="https://epg.112114.xyz/logo/10洗冤录(网页).png" group-title="洪宇提取网页",10洗冤录(网页)
+video://https://www.huya.com/29465851
+#EXTINF:-1,tvg-id="11金枝欲孽(网页)" tvg-name="11金枝欲孽(网页)" tvg-logo="https://epg.112114.xyz/logo/11金枝欲孽(网页).png" group-title="洪宇提取网页",11金枝欲孽(网页)
+video://https://www.huya.com/29465847
+#EXTINF:-1,tvg-id="12野蛮奶奶大战戈师奶(网页)" tvg-name="12野蛮奶奶大战戈师奶(网页)" tvg-logo="https://epg.112114.xyz/logo/12野蛮奶奶大战戈师奶(网页).png" group-title="洪宇提取网页",12野蛮奶奶大战戈师奶(网页)
+video://https://www.huya.com/23863796
+#EXTINF:-1,tvg-id="13创世纪(网页)" tvg-name="13创世纪(网页)" tvg-logo="https://epg.112114.xyz/logo/13创世纪(网页).png" group-title="洪宇提取网页",13创世纪(网页)
+video://https://www.huya.com/29465852
+#EXTINF:-1,tvg-id="14封神榜(网页)" tvg-name="14封神榜(网页)" tvg-logo="https://epg.112114.xyz/logo/14封神榜(网页).png" group-title="洪宇提取网页",14封神榜(网页)
+video://https://www.huya.com/29465849
+#EXTINF:-1,tvg-id="15神雕侠侣(网页)" tvg-name="15神雕侠侣(网页)" tvg-logo="https://epg.112114.xyz/logo/15神雕侠侣(网页).png" group-title="洪宇提取网页",15神雕侠侣(网页)
+video://https://www.huya.com/30454429
+#EXTINF:-1,tvg-id="16妙手仁心(网页)" tvg-name="16妙手仁心(网页)" tvg-logo="https://epg.112114.xyz/logo/16妙手仁心(网页).png" group-title="洪宇提取网页",16妙手仁心(网页)
+video://https://www.huya.com/29465853
+#EXTINF:-1,tvg-id="17活佛济公3(网页)" tvg-name="17活佛济公3(网页)" tvg-logo="https://epg.112114.xyz/logo/17活佛济公3(网页).png" group-title="洪宇提取网页",17活佛济公3(网页)
+video://https://www.huya.com/23903123
+#EXTINF:-1,tvg-id="倚天屠龙记(网页)" tvg-name="倚天屠龙记(网页)" tvg-logo="https://epg.112114.xyz/logo/倚天屠龙记(网页).png" group-title="洪宇提取网页",倚天屠龙记(网页)
+video://https://www.huya.com/27834853
+#EXTINF:-1,tvg-id="鹿鼎记98(网页)" tvg-name="鹿鼎记98(网页)" tvg-logo="https://epg.112114.xyz/logo/鹿鼎记98(网页).png" group-title="洪宇提取网页",鹿鼎记98(网页)
+video://https://www.huya.com/26355806
+#EXTINF:-1,tvg-id="小李飞刀(网页)" tvg-name="小李飞刀(网页)" tvg-logo="https://epg.112114.xyz/logo/小李飞刀(网页).png" group-title="洪宇提取网页",小李飞刀(网页)
+video://https://www.huya.com/11342417
+#EXTINF:-1,tvg-id="水月洞天(网页)" tvg-name="水月洞天(网页)" tvg-logo="https://epg.112114.xyz/logo/水月洞天(网页).png" group-title="洪宇提取网页",水月洞天(网页)
+video://https://www.huya.com/21059567
+#EXTINF:-1,tvg-id="绝代双娇(网页)" tvg-name="绝代双娇(网页)" tvg-logo="https://epg.112114.xyz/logo/绝代双娇(网页).png" group-title="洪宇提取网页",绝代双娇(网页)
+video://https://www.huya.com/29465867
+#EXTINF:-1,tvg-id="风云雄霸天下(网页)" tvg-name="风云雄霸天下(网页)" tvg-logo="https://epg.112114.xyz/logo/风云雄霸天下(网页).png" group-title="洪宇提取网页",风云雄霸天下(网页)
+video://https://www.huya.com/21059612
+#EXTINF:-1,tvg-id="如懿传(网页)" tvg-name="如懿传(网页)" tvg-logo="https://epg.112114.xyz/logo/如懿传(网页).png" group-title="洪宇提取网页",如懿传(网页)
+video://https://www.huya.com/29465868
+#EXTINF:-1,tvg-id="芈月传(网页)" tvg-name="芈月传(网页)" tvg-logo="https://epg.112114.xyz/logo/芈月传(网页).png" group-title="洪宇提取网页",芈月传(网页)
+video://https://www.huya.com/11352975
+#EXTINF:-1,tvg-id="延禧攻略(网页)" tvg-name="延禧攻略(网页)" tvg-logo="https://epg.112114.xyz/logo/延禧攻略(网页).png" group-title="洪宇提取网页",延禧攻略(网页)
+video://https://www.huya.com/26355864
+#EXTINF:-1,tvg-id="王子变青蛙(网页)" tvg-name="王子变青蛙(网页)" tvg-logo="https://epg.112114.xyz/logo/王子变青蛙(网页).png" group-title="洪宇提取网页",王子变青蛙(网页)
+video://https://www.huya.com/11601964
+#EXTINF:-1,tvg-id="永夜星河(网页)" tvg-name="永夜星河(网页)" tvg-logo="https://epg.112114.xyz/logo/永夜星河(网页).png" group-title="洪宇提取网页",永夜星河(网页)
+video://https://www.huya.com/23734169
+#EXTINF:-1,tvg-id="玫瑰的故事(网页)" tvg-name="玫瑰的故事(网页)" tvg-logo="https://epg.112114.xyz/logo/玫瑰的故事(网页).png" group-title="洪宇提取网页",玫瑰的故事(网页)
+video://https://www.huya.com/23865142
+#EXTINF:-1,tvg-id="漫长的季节(网页)" tvg-name="漫长的季节(网页)" tvg-logo="https://epg.112114.xyz/logo/漫长的季节(网页).png" group-title="洪宇提取网页",漫长的季节(网页)
+video://https://www.huya.com/11342393
+#EXTINF:-1,tvg-id="梦华录(网页)" tvg-name="梦华录(网页)" tvg-logo="https://epg.112114.xyz/logo/梦华录(网页).png" group-title="洪宇提取网页",梦华录(网页)
+video://https://www.huya.com/11336590
+#EXTINF:-1,tvg-id="乌龙院闯情关(网页)" tvg-name="乌龙院闯情关(网页)" tvg-logo="https://epg.112114.xyz/logo/乌龙院闯情关(网页).png" group-title="洪宇提取网页",乌龙院闯情关(网页)
+video://https://www.huya.com/26355767
+#EXTINF:-1,tvg-id="新楚留香(网页)" tvg-name="新楚留香(网页)" tvg-logo="https://epg.112114.xyz/logo/新楚留香(网页).png" group-title="洪宇提取网页",新楚留香(网页)
+video://https://www.huya.com/26355848
+#EXTINF:-1,tvg-id="新楚留香(网页)" tvg-name="新楚留香(网页)" tvg-logo="https://epg.112114.xyz/logo/新楚留香(网页).png" group-title="洪宇提取网页",新楚留香(网页)
+video://https://www.huya.com/23863804
+#EXTINF:-1,tvg-id="无心法师(网页)" tvg-name="无心法师(网页)" tvg-logo="https://epg.112114.xyz/logo/无心法师(网页).png" group-title="洪宇提取网页",无心法师(网页)
+video://https://www.huya.com/30080233
+#EXTINF:-1,tvg-id="征服(网页)" tvg-name="征服(网页)" tvg-logo="https://epg.112114.xyz/logo/征服(网页).png" group-title="洪宇提取网页",征服(网页)
+video://https://www.huya.com/30311494
+#EXTINF:-1,tvg-id="蜡笔小新(网页)" tvg-name="蜡笔小新(网页)" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新(网页).png" group-title="洪宇提取网页",蜡笔小新(网页)
+video://https://www.huya.com/30299353
+#EXTINF:-1,tvg-id="海绵宝宝(网页)" tvg-name="海绵宝宝(网页)" tvg-logo="https://epg.112114.xyz/logo/海绵宝宝(网页).png" group-title="洪宇提取网页",海绵宝宝(网页)
+video://https://www.huya.com/11352919
+#EXTINF:-1,tvg-id="龙珠(网页)" tvg-name="龙珠(网页)" tvg-logo="https://epg.112114.xyz/logo/龙珠(网页).png" group-title="洪宇提取网页",龙珠(网页)
+video://https://www.huya.com/10279885
+#EXTINF:-1,tvg-id="叮当全集剧集(网页)" tvg-name="叮当全集剧集(网页)" tvg-logo="https://epg.112114.xyz/logo/叮当全集剧集(网页).png" group-title="洪宇提取网页",叮当全集剧集(网页)
+video://https://www.huya.com/11601963
+#EXTINF:-1,tvg-id="樱桃小丸子剧(网页)" tvg-name="樱桃小丸子剧(网页)" tvg-logo="https://epg.112114.xyz/logo/樱桃小丸子剧(网页).png" group-title="洪宇提取网页",樱桃小丸子剧(网页)
+video://https://www.huya.com/11342394
+#EXTINF:-1,tvg-id="猫和老鼠剧集(网页)" tvg-name="猫和老鼠剧集(网页)" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠剧集(网页).png" group-title="洪宇提取网页",猫和老鼠剧集(网页)
+video://https://www.huya.com/11352879
+#EXTINF:-1,tvg-id="鬼吹灯之精绝古城(网页)" tvg-name="鬼吹灯之精绝古城(网页)" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯之精绝古城(网页).png" group-title="洪宇提取网页",鬼吹灯之精绝古城(网页)
+video://https://www.huya.com/11352871
+#EXTINF:-1,tvg-id="鬼吹灯之怒晴湘西(网页)" tvg-name="鬼吹灯之怒晴湘西(网页)" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯之怒晴湘西(网页).png" group-title="洪宇提取网页",鬼吹灯之怒晴湘西(网页)
+video://https://www.huya.com/11602075
+#EXTINF:-1,tvg-id="鬼吹灯之龙岭迷窟(网页)" tvg-name="鬼吹灯之龙岭迷窟(网页)" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯之龙岭迷窟(网页).png" group-title="洪宇提取网页",鬼吹灯之龙岭迷窟(网页)
+video://https://www.huya.com/29465863
+#EXTINF:-1,tvg-id="鬼吹灯之云南虫谷(网页)" tvg-name="鬼吹灯之云南虫谷(网页)" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯之云南虫谷(网页).png" group-title="洪宇提取网页",鬼吹灯之云南虫谷(网页)
+video://https://www.huya.com/11352898
+#EXTINF:-1,tvg-id="JJ斗地主(网页)" tvg-name="JJ斗地主(网页)" tvg-logo="https://epg.112114.xyz/logo/JJ斗地主(网页).png" group-title="洪宇提取网页",JJ斗地主(网页)
+video://https://www.huya.com/14079954
+#EXTINF:-1,tvg-id="亮剑(网页)" tvg-name="亮剑(网页)" tvg-logo="https://epg.112114.xyz/logo/亮剑(网页).png" group-title="洪宇提取网页",亮剑(网页)
+video://https://www.huya.com/30080238
+#EXTINF:-1,tvg-id="民兵葛二蛋(网页)" tvg-name="民兵葛二蛋(网页)" tvg-logo="https://epg.112114.xyz/logo/民兵葛二蛋(网页).png" group-title="洪宇提取网页",民兵葛二蛋(网页)
+video://https://www.huya.com/11602072
+#EXTINF:-1,tvg-id="我的团长我的团(网页)" tvg-name="我的团长我的团(网页)" tvg-logo="https://epg.112114.xyz/logo/我的团长我的团(网页).png" group-title="洪宇提取网页",我的团长我的团(网页)
+video://https://www.huya.com/11352910
+#EXTINF:-1,tvg-id="铁道游击队(网页)" tvg-name="铁道游击队(网页)" tvg-logo="https://epg.112114.xyz/logo/铁道游击队(网页).png" group-title="洪宇提取网页",铁道游击队(网页)
+video://https://www.huya.com/11352936
+#EXTINF:-1,tvg-id="铁梨花(网页)" tvg-name="铁梨花(网页)" tvg-logo="https://epg.112114.xyz/logo/铁梨花(网页).png" group-title="洪宇提取网页",铁梨花(网页)
+video://https://www.huya.com/11352912
+#EXTINF:-1,tvg-id="康熙微服私访记(网页)" tvg-name="康熙微服私访记(网页)" tvg-logo="https://epg.112114.xyz/logo/康熙微服私访记(网页).png" group-title="洪宇提取网页",康熙微服私访记(网页)
+video://https://www.huya.com/11342418
+#EXTINF:-1,tvg-id="御赐小仵作(网页)" tvg-name="御赐小仵作(网页)" tvg-logo="https://epg.112114.xyz/logo/御赐小仵作(网页).png" group-title="洪宇提取网页",御赐小仵作(网页)
+video://https://www.huya.com/11352948
+#EXTINF:-1,tvg-id="新水浒传(网页)" tvg-name="新水浒传(网页)" tvg-logo="https://epg.112114.xyz/logo/新水浒传(网页).png" group-title="洪宇提取网页",新水浒传(网页)
+video://https://www.huya.com/11342384
+#EXTINF:-1,tvg-id="开端(网页)" tvg-name="开端(网页)" tvg-logo="https://epg.112114.xyz/logo/开端(网页).png" group-title="洪宇提取网页",开端(网页)
+video://https://www.huya.com/11342397
+#EXTINF:-1,tvg-id="神探狄仁杰(网页)" tvg-name="神探狄仁杰(网页)" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰(网页).png" group-title="洪宇提取网页",神探狄仁杰(网页)
+video://https://www.huya.com/11352958
+#EXTINF:-1,tvg-id="三国演义（94版）(网页)" tvg-name="三国演义（94版）(网页)" tvg-logo="https://epg.112114.xyz/logo/三国演义（94版）(网页).png" group-title="洪宇提取网页",三国演义（94版）(网页)
+video://https://www.huya.com/11602081
+#EXTINF:-1,tvg-id="新三国演义(网页)" tvg-name="新三国演义(网页)" tvg-logo="https://epg.112114.xyz/logo/新三国演义(网页).png" group-title="洪宇提取网页",新三国演义(网页)
+video://https://www.huya.com/11352944
+#EXTINF:-1,tvg-id="问心(网页)" tvg-name="问心(网页)" tvg-logo="https://epg.112114.xyz/logo/问心(网页).png" group-title="洪宇提取网页",问心(网页)
+video://https://www.huya.com/11352890
+#EXTINF:-1,tvg-id="家有儿女(网页)" tvg-name="家有儿女(网页)" tvg-logo="https://epg.112114.xyz/logo/家有儿女(网页).png" group-title="洪宇提取网页",家有儿女(网页)
+video://https://www.huya.com/29774370
+#EXTINF:-1,tvg-id="全职高手(网页)" tvg-name="全职高手(网页)" tvg-logo="https://epg.112114.xyz/logo/全职高手(网页).png" group-title="洪宇提取网页",全职高手(网页)
+video://https://www.huya.com/11352901
+#EXTINF:-1,tvg-id="炊事班的故事3(网页)" tvg-name="炊事班的故事3(网页)" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事3(网页).png" group-title="洪宇提取网页",炊事班的故事3(网页)
+video://https://www.huya.com/19524135
+#EXTINF:-1,tvg-id="医馆笑传(网页)" tvg-name="医馆笑传(网页)" tvg-logo="https://epg.112114.xyz/logo/医馆笑传(网页).png" group-title="洪宇提取网页",医馆笑传(网页)
+video://https://www.huya.com/11352891
+#EXTINF:-1,tvg-id="杨光的快乐生活(网页)" tvg-name="杨光的快乐生活(网页)" tvg-logo="https://epg.112114.xyz/logo/杨光的快乐生活(网页).png" group-title="洪宇提取网页",杨光的快乐生活(网页)
+video://https://www.huya.com/11602085
+#EXTINF:-1,tvg-id="陈情令(网页)" tvg-name="陈情令(网页)" tvg-logo="https://epg.112114.xyz/logo/陈情令(网页).png" group-title="洪宇提取网页",陈情令(网页)
+video://https://www.huya.com/29465862
+#EXTINF:-1,tvg-id="神医喜来乐(网页)" tvg-name="神医喜来乐(网页)" tvg-logo="https://epg.112114.xyz/logo/神医喜来乐(网页).png" group-title="洪宇提取网页",神医喜来乐(网页)
+video://https://www.huya.com/11601978
+#EXTINF:-1,tvg-id="大宋提刑官(网页)" tvg-name="大宋提刑官(网页)" tvg-logo="https://epg.112114.xyz/logo/大宋提刑官(网页).png" group-title="洪宇提取网页",大宋提刑官(网页)
+video://https://www.huya.com/26355856
+#EXTINF:-1,tvg-id="鹊刀门传奇(网页)" tvg-name="鹊刀门传奇(网页)" tvg-logo="https://epg.112114.xyz/logo/鹊刀门传奇(网页).png" group-title="洪宇提取网页",鹊刀门传奇(网页)
+video://https://www.huya.com/29805872
+#EXTINF:-1,tvg-id="白鹿原(网页)" tvg-name="白鹿原(网页)" tvg-logo="https://epg.112114.xyz/logo/白鹿原(网页).png" group-title="洪宇提取网页",白鹿原(网页)
+video://https://www.huya.com/11342416
+#EXTINF:-1,tvg-id="长相思(网页)" tvg-name="长相思(网页)" tvg-logo="https://epg.112114.xyz/logo/长相思(网页).png" group-title="洪宇提取网页",长相思(网页)
+video://https://www.huya.com/11336593
+#EXTINF:-1,tvg-id="你是我的荣耀(网页)" tvg-name="你是我的荣耀(网页)" tvg-logo="https://epg.112114.xyz/logo/你是我的荣耀(网页).png" group-title="洪宇提取网页",你是我的荣耀(网页)
+video://https://www.huya.com/11352920
+#EXTINF:-1,tvg-id="一代枭雄(网页)" tvg-name="一代枭雄(网页)" tvg-logo="https://epg.112114.xyz/logo/一代枭雄(网页).png" group-title="洪宇提取网页",一代枭雄(网页)
+video://https://www.huya.com/11342398
+#EXTINF:-1,tvg-id="庆余年(网页)" tvg-name="庆余年(网页)" tvg-logo="https://epg.112114.xyz/logo/庆余年(网页).png" group-title="洪宇提取网页",庆余年(网页)
+video://https://www.huya.com/11352960
+#EXTINF:-1,tvg-id="铁齿铜牙纪晓岚(网页)" tvg-name="铁齿铜牙纪晓岚(网页)" tvg-logo="https://epg.112114.xyz/logo/铁齿铜牙纪晓岚(网页).png" group-title="洪宇提取网页",铁齿铜牙纪晓岚(网页)
+video://https://www.huya.com/11342396
+#EXTINF:-1,tvg-id="镖行天下(网页)" tvg-name="镖行天下(网页)" tvg-logo="https://epg.112114.xyz/logo/镖行天下(网页).png" group-title="洪宇提取网页",镖行天下(网页)
+video://https://www.huya.com/11352969
+#EXTINF:-1,tvg-id="雪中悍刀行(网页)" tvg-name="雪中悍刀行(网页)" tvg-logo="https://epg.112114.xyz/logo/雪中悍刀行(网页).png" group-title="洪宇提取网页",雪中悍刀行(网页)
+video://https://www.huya.com/11336592
+#EXTINF:-1,tvg-id="星汉灿烂·月生沧海(网页)" tvg-name="星汉灿烂·月生沧海(网页)" tvg-logo="https://epg.112114.xyz/logo/星汉灿烂·月生沧海(网页).png" group-title="洪宇提取网页",星汉灿烂·月生沧海(网页)
+video://https://www.huya.com/11336591
+#EXTINF:-1,tvg-id="将夜(网页)" tvg-name="将夜(网页)" tvg-logo="https://epg.112114.xyz/logo/将夜(网页).png" group-title="洪宇提取网页",将夜(网页)
+video://https://www.huya.com/11352885
+#EXTINF:-1,tvg-id="父母爱情(网页)" tvg-name="父母爱情(网页)" tvg-logo="https://epg.112114.xyz/logo/父母爱情(网页).png" group-title="洪宇提取网页",父母爱情(网页)
+video://https://www.huya.com/11602071
+#EXTINF:-1,tvg-id="大染坊(网页)" tvg-name="大染坊(网页)" tvg-logo="https://epg.112114.xyz/logo/大染坊(网页).png" group-title="洪宇提取网页",大染坊(网页)
+video://https://www.huya.com/11602086
+#EXTINF:-1,tvg-id="地下交通站(网页)" tvg-name="地下交通站(网页)" tvg-logo="https://epg.112114.xyz/logo/地下交通站(网页).png" group-title="洪宇提取网页",地下交通站(网页)
+video://https://www.huya.com/11342433
+#EXTINF:-1,tvg-id="邻里一家亲(网页)" tvg-name="邻里一家亲(网页)" tvg-logo="https://epg.112114.xyz/logo/邻里一家亲(网页).png" group-title="洪宇提取网页",邻里一家亲(网页)
+video://https://www.huya.com/11342426
+#EXTINF:-1,tvg-id="剧集_雍正王朝(网页)" tvg-name="剧集_雍正王朝(网页)" tvg-logo="https://epg.112114.xyz/logo/剧集_雍正王朝(网页).png" group-title="洪宇提取网页",剧集_雍正王朝(网页)
+video://https://www.huya.com/11342439
+#EXTINF:-1,tvg-id="剧集_士兵突击(网页)" tvg-name="剧集_士兵突击(网页)" tvg-logo="https://epg.112114.xyz/logo/剧集_士兵突击(网页).png" group-title="洪宇提取网页",剧集_士兵突击(网页)
+video://https://www.huya.com/11342430
+#EXTINF:-1,tvg-id="剧集_爱情公寓(网页)" tvg-name="剧集_爱情公寓(网页)" tvg-logo="https://epg.112114.xyz/logo/剧集_爱情公寓(网页).png" group-title="洪宇提取网页",剧集_爱情公寓(网页)
+video://https://www.huya.com/11336726
+#EXTINF:-1,tvg-id="电视剧场一(网页)" tvg-name="电视剧场一(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场一(网页).png" group-title="洪宇提取网页",电视剧场一(网页)
+video://https://www.huya.com/29465862
+#EXTINF:-1,tvg-id="电视剧场二(网页)" tvg-name="电视剧场二(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场二(网页).png" group-title="洪宇提取网页",电视剧场二(网页)
+video://https://www.huya.com/11336591
+#EXTINF:-1,tvg-id="电视剧场三(网页)" tvg-name="电视剧场三(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场三(网页).png" group-title="洪宇提取网页",电视剧场三(网页)
+video://https://www.huya.com/21059563
+#EXTINF:-1,tvg-id="电视剧场四(网页)" tvg-name="电视剧场四(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场四(网页).png" group-title="洪宇提取网页",电视剧场四(网页)
+video://https://www.huya.com/26355783
+#EXTINF:-1,tvg-id="电视剧场五(网页)" tvg-name="电视剧场五(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场五(网页).png" group-title="洪宇提取网页",电视剧场五(网页)
+video://https://www.huya.com/11352912
+#EXTINF:-1,tvg-id="电视剧场六(网页)" tvg-name="电视剧场六(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场六(网页).png" group-title="洪宇提取网页",电视剧场六(网页)
+video://https://www.huya.com/11352936
+#EXTINF:-1,tvg-id="电视剧场七(网页)" tvg-name="电视剧场七(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场七(网页).png" group-title="洪宇提取网页",电视剧场七(网页)
+video://https://www.huya.com/21059630
+#EXTINF:-1,tvg-id="电视剧场八(网页)" tvg-name="电视剧场八(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场八(网页).png" group-title="洪宇提取网页",电视剧场八(网页)
+video://https://www.huya.com/26355775
+#EXTINF:-1,tvg-id="电视剧场九(网页)" tvg-name="电视剧场九(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场九(网页).png" group-title="洪宇提取网页",电视剧场九(网页)
+video://https://www.huya.com/21059594
+#EXTINF:-1,tvg-id="电视剧场十(网页)" tvg-name="电视剧场十(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场十(网页).png" group-title="洪宇提取网页",电视剧场十(网页)
+video://https://www.huya.com/11336592
+#EXTINF:-1,tvg-id="电视剧场十一(网页)" tvg-name="电视剧场十一(网页)" tvg-logo="https://epg.112114.xyz/logo/电视剧场十一(网页).png" group-title="洪宇提取网页",电视剧场十一(网页)
+video://https://www.huya.com/11602088
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title="㊉虎牙㊉轮播," ,刘华强
 https://mursor.ottiptv.cc/huya/11601970
