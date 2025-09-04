@@ -2233,6 +2233,7 @@
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
+ {"name":"[洪宇]大文件","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fudong305/iptv/d09218109d2eccfb54ac6043dcaa1cc445b49d66/gy.m3u","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
         {
             "name": "洪宇的虎牙",
             "type": 3,
@@ -2569,3 +2570,4 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
