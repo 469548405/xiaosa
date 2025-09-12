@@ -16,8 +16,8 @@
 
 {"name":"🆔洪宇爬虫【P2备用】","url":"https://gh-proxy.com/https://raw.githubusercontent.com/jingyu8993/vvvzhy/refs/heads/main/JN/hy.json"},
 
-{"name":"🆔洪宇爬虫【P3】","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/jsm.json"},
+{"name":"🆔洪宇爬虫【P3】","url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/api.json"},
 
-{"name":"🆔洪宇爬虫【P3备用】","url":"https://gh-proxy.com/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/jsm.json"}
+{"name":"🆔洪宇爬虫【P3备用】","url":"https://gh-proxy.com/https://raw.githubusercontent.com/469548405/fun/refs/heads/main/fun.json"}
 ]
 }
