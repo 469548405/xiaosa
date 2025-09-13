@@ -6,7 +6,7 @@
 		{
 			"key": "BiliBili",
 			"name": "Bili_MTV",
-	"jar": "./pg.jar;md5;./pg.jar.md5"
+	"jar": "./pg.jar;md5;./pg.jar.md5",
 			"type": 3,
 			"api": "csp_Bili",
 			"style": {
@@ -2603,6 +2603,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
