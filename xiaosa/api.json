@@ -22,7 +22,8 @@
 				"cookie": ""
 			}
 		},
-        {
+{"jar":"./0924.jar","key":"csp_Market","name":"洪宇🗿应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./0924.json"},
+		{
             "key": "哔哩哔哩听书",
             "name": "洪宇哔哩｜听书",
             "type": 3,
@@ -2603,6 +2604,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
