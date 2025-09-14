@@ -3,6 +3,10 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
+                       {
+                      "key":"MTV","name":"🎧洪宇┃哔哩试听","jar": "./pg.jar;md5;./pg.jar.md5","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+                       "searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/yu.json" 
+                       },
 		{
 			"key": "BiliBili",
 			"name": "Bili_MTV",
@@ -2604,6 +2608,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
