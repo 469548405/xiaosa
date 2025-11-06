@@ -3,7 +3,75 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
-                       {
+
+      {
+        "key": "csp_Live2Vod_22",
+        "name": "live┃本地直播",
+        "type": 3,
+        "api": "http://127.0.0.1:9978/file/Download/live/直播vod.js",
+        "jar": "http://127.0.0.1:9978/file/Download/live/candymuj.jar",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext":"http://127.0.0.1:9978/file/Download/live/json.json"
+      
+
+},
+
+
+
+
+
+
+
+
+        {"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
+        "key":"YU_Market",
+        "name":"📢洪宇┃网络应用商店",
+        "type":3,"api":"csp_Market",
+        "searchable":0,
+        "changeable":0,
+        "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+
+        
+    {
+      "key": "csp_XYQHiker_网络虎牙直播",
+      "name": "🎧洪宇┃网络虎牙",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络虎牙直播.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_网络斗鱼直播",
+      "name": "🎧洪宇┃网络斗鱼",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络斗鱼直播.json"
+    },
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+		
+		{
                       "key":"MTV","name":"🎧洪宇┃哔哩试听","jar": "./json/yu.jar","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
                        "searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/yu.json" 
                        },
@@ -2609,6 +2677,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
