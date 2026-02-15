@@ -6,7 +6,7 @@
 
       {
         "key": "csp_Live2Vod_22",
-        "name": "live┃本地直播",
+        "name": "live┃本地直播(修复中)",
         "type": 3,
         "api": "http://127.0.0.1:9978/file/Download/live/直播vod.js",
         "jar": "http://127.0.0.1:9978/file/Download/live/candymuj.jar",
@@ -36,7 +36,7 @@
         
     {
       "key": "csp_XYQHiker_网络虎牙直播",
-      "name": "🎧洪宇┃网络虎牙",
+      "name": "🎧洪宇┃网络虎牙(修复中)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -48,7 +48,7 @@
 
     {
       "key": "csp_XYQHiker_网络斗鱼直播",
-      "name": "🎧洪宇┃网络斗鱼",
+      "name": "🎧洪宇┃网络斗鱼(修复中)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -2677,6 +2677,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
